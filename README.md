@@ -17,7 +17,7 @@ The course focuses on three essential aspects of deep neural networks: hyperpara
 The course is divided into the following sections:
 
 1. **WEEK1: Practical Aspect of Deep Learning** Discover and experiment with a variety of different initialization methods, apply L2 regularization and dropout to avoid model overfitting, then apply gradient checking to identify errors in a fraud detection model.
-*ddd*
+- `lectures/`: This directory contains lecture slides and accompanying materials for each section of the course.
 
 2. **WEEK2: Optimization Algorithms** Develop your deep learning toolbox by adding more advanced optimizations, random minibatching, and learning rate decay scheduling to speed up your models.
 
