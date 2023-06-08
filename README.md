@@ -21,7 +21,23 @@ The course is divided into the following sections:
     - Train/Dev/Test sets
     - Bias/Variance
     - Basic Recipe for Machine Learning
-
+- `Regularizing your Neural Network`
+    - Regularization
+    - Why Regularization Reduced Overfiting
+    - Dropout Regularization
+    - Understanding Dropout
+    - Other Regularization Methods
+- `Setting Up your Optimization Problem`
+    - Normalizing Inputs
+    - Vanishing/Exploding Gradients
+    - Weight Initialization for Deep Networks
+    - Numerical Approximation of Gradients
+    - Gradient Checking
+- `Quiz`
+- `Programming Assignments`
+    - Initialization
+    - Regularization
+    - Gradient Checking
 2. **WEEK2: Optimization Algorithms** Develop your deep learning toolbox by adding more advanced optimizations, random minibatching, and learning rate decay scheduling to speed up your models.
 
 3. **WEEK3: Hyperparameter Tuning, Batch Normalization and Programming Frameworks** Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily, then train a neural network on a TensorFlow dataset.
