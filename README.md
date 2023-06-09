@@ -5,10 +5,7 @@ This repository contains the course materials and my notes from taking the cours
 ## Table of Contents
 
 - [Course Overview](#course-overview)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [Requirements](#requirements)
-- [Acknowledgments](#acknowledgments)
+- [TBD](#tbd)
 
 ## Course Overview
 
@@ -39,17 +36,44 @@ The course is divided into the following sections:
     - Regularization
     - Gradient Checking
 2. **WEEK2: Optimization Algorithms** Develop your deep learning toolbox by adding more advanced optimizations, random minibatching, and learning rate decay scheduling to speed up your models.
-
+- `Optimization Algorithms`
+    - Mini-batch Gradient Descent
+    - Understanding Mini-batch Gradient Descent
+    - Exponentially Weighted Averages
+    - Understanding Exponentially Weighted Averages
+    - Bias Correction in Exponentially Weighted Averages
+    - Gradient Descent with Momentum
+    - RMSprop
+    - Adam Optimization Algorithm
+    - Learning Rate Decay
+    - The problem of Local Optima
+- `Quiz`
+- `Programming Assignments`
+    - Optimization Methods
 3. **WEEK3: Hyperparameter Tuning, Batch Normalization and Programming Frameworks** Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily, then train a neural network on a TensorFlow dataset.
+- `Hyperparameter Tuning`
+    - Tuning Process
+    - Using an Appropriate Scale to pick Hyperparameters
+    - Hyperparameters Tuning in Practice: Pandas vs. Caviar
+- `Batch Normalization`
+    - Normalizing Activations in a Network
+    - Fitting Batch Norm into a Neural Network
+    - Why does Batch Norm work?
+    - Batch Norm at Test Time
+- `Multi-class Classification`
+    - Softmax Regression
+    - Training a Softmax Classifier
+- `Introduction to Programming Frameworks`
+    - Deep Learning Frameworks
+    - TensorFlow
+- `Quiz`
+- `Programming Assignments`
+    - TensorFlow Introduction
 
-## Repository Structure
+## TBD
 
 The repository is organized as follows:
 
-- `lectures/`: This directory contains lecture slides and accompanying materials for each section of the course.
-- `notebooks/`: Here, you can find Jupyter notebooks that provide hands-on exercises and implementation examples.
-- `datasets/`: It includes the datasets used in the course exercises and case studies.
-- `resources/`: This directory contains additional resources, such as papers, articles, and relevant links for further exploration.
 
 
 
