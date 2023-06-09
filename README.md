@@ -16,7 +16,6 @@ The course is divided into the following sections:
 1. **WEEK1: Practical Aspect of Deep Learning** Discover and experiment with a variety of different initialization methods, apply L2 regularization and dropout to avoid model overfitting, then apply gradient checking to identify errors in a fraud detection model.
 - `Setting up your Machine Learning Application`
     - Train/Dev/Test sets
-        - ddd
     - Bias/Variance
     - Basic Recipe for Machine Learning
 - `Regularizing your Neural Network`
